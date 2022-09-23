@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dd587ef0-ac52-4f6f-87ad-d514a77d9b4b" name="ftp.sergiosn.com" url="https://sergiosn.com">
+        <fileTransfer rootFolder="/public_html" accessType="FTPS" host="ftp.sergiosn.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
